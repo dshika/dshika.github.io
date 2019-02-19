@@ -67,6 +67,11 @@ p.lead {
   margin-right: 1rem;
 }
 
+.skill-icons {
+	height:3.3rem;
+	width:2.7rem;
+}
+
 .social-icons a:last-child {
   margin-right: 0;
 }
